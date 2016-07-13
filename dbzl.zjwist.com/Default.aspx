@@ -35,9 +35,6 @@
     </div>
     </form>
     <div class="clear">
-    </div>
-    <%-- <div style="text-align: center; padding-top: 5em;">
-        技术支持： 浙江省旅游信息中心
-    </div>--%>
+    </div
 </body>
 </html>
