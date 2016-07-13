@@ -16,7 +16,7 @@ public class MySQL
 {
 
 
-    public static string DNSTable = "DBTourism";
+    public static string DNSTable = "DBCar";
 
 
     public MySQL()
@@ -101,5 +101,5 @@ public class MySQL
     {
         return ExecProcBase(DNSTable, StoreProcName, aParamList, out r, out e);
     }
-
+   
 }
